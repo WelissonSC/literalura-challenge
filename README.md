@@ -1,6 +1,7 @@
 <h1>Literalura</h1>
 
-![image](https://github.com/user-attachments/assets/c59b958f-f1d2-4630-8153-a301249f9a74)
+<img width="1600" height="862" alt="image" src="https://github.com/user-attachments/assets/46b63667-5c45-44c9-ab2a-dd7a0d2a530f" />
+
 
 
 ## Descrição do projeto
